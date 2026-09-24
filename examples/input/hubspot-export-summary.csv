@@ -1,0 +1,3 @@
+Partner,Younium Account Number,Deal ID,Name,Company name,Amount in company currency,Deal Name,Currency,License Start Date / Go-live date - Daily,License End Date - Daily,Close Date - Daily,Net price,Quantity
+Demo Partner,DEMO-ACCOUNT-1,DEMO-ORDER-1,Standard Subscription,Example Customer,1200,Example annual subscription,SEK,2026-01-01,2026-12-31,2026-01-01,1200,10
+Demo Partner,DEMO-ACCOUNT-1,DEMO-ORDER-2,Unlisted Subscription,Example Customer,1200,Example annual subscription,SEK,2026-01-01,2026-12-31,2026-01-01,1200,10
